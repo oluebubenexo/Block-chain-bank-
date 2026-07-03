@@ -1,0 +1,6 @@
+{
+  "name": "Vaulta",
+  "description": "Invisible blockchain banking app. Send, receive, and manage funds securely with a clean, mobile-first interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
